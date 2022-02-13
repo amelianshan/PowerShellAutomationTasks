@@ -45,4 +45,4 @@ Function getDirectreport($name){
 
 }
 
-getDirectreport("hua.huang@fountain-med.com")
+getDirectreport("username@email.com")
